@@ -34,7 +34,7 @@ A Bash script designed for authorized penetration testing that focuses on captur
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/Muneeb-Zafar/wpa2-penetration-toolkit.git
+    git clone https://github.com/VastScientist69/wpa2-penetration-toolkit.git
     cd wpa2-penetration-toolkit
     ```
 
